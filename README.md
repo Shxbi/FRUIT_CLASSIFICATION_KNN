@@ -3,7 +3,7 @@ This project is a fruit classification application using the K-Nearest Neighbors
 
 **Features**
 Input characteristics like weight, color, size, shape, skin texture, firmness, aroma, fleshiness, growing season, and country of origin.
-Outputs a predicted classification of the fruit based on the input data.
+Outputs a predicted classification of the fruit based on the input data. 
 
 **Dataset**
 The dataset used for this project is small and contains only 50 fruit samples. Due to the limited size, the model's accuracy may be lower than expected for larger datasets. For better accuracy, consider expanding the dataset with more fruit samples and a wider variety of fruit types.
