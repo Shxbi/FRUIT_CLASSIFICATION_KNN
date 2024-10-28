@@ -1,0 +1,51 @@
+weight(gms),color,size(cms),shape,skin_texture,firmness,aroma_type,fleshiness,label,growing_season,country_of_origin
+107,pink,14.1,elongated,rough,firm,sweet,mealy,banana,year-round,China
+124,pink,3.3,oval,smooth,firm,tangy,mealy,orange,fall,India
+227,brown,10.9,oval,rough,firm,tart,mealy,lime,summer,Mexico
+441,orange,6.6,irregular,smooth,firm,sweet,mealy,grape,winter,New Zealand
+231,red,28.3,elongated,rough,firm,sweet,mealy,apple,spring,Spain
+439,yellow,9.3,oval,smooth,firm,citrus,fleshy,lemon,fall,Mexico
+336,pink,5.3,irregular,slightly rough,firm,sweet,juicy,avocado,summer,Spain
+335,purple,4.3,irregular,slightly rough,soft,nutty,fleshy,cherry,spring,New Zealand
+319,white,3.8,round,smooth,firm,sweet,fleshy,kiwi,fall,India
+136,black,7.6,oval,smooth,firm,citrus,juicy,pineapple,summer,India
+435,purple,13.1,oval,smooth,firm,citrus,fleshy,watermelon,summer,USA
+498,yellow,29.9,elongated,rough,firm,citrus,mealy,strawberry,summer,South Africa
+481,yellow,8.7,oval,slightly rough,firm,tart,mealy,mango,summer,New Zealand
+128,white,11.4,round,slightly rough,firm,sweet,fleshy,plum,fall,Brazil
+439,pink,9.3,round,slightly rough,soft,tart,mealy,pear,spring,Mexico
+320,blue,11.7,round,rough,firm,citrus,mealy,papaya,winter,India
+435,blue,6.2,round,smooth,hard,citrus,juicy,raspberry,fall,Australia
+289,red,14.4,elongated,rough,hard,nutty,fleshy,mandarin,summer,South Africa
+375,black,14.8,oval,slightly rough,soft,citrus,juicy,fig,spring,South Africa
+391,green,20.8,elongated,rough,soft,tart,mealy,apricot,fall,Australia
+171,yellow,19.5,elongated,slightly rough,hard,tangy,juicy,peach,year-round,Australia
+293,white,11.9,oval,rough,hard,tart,juicy,green_apple,winter,South Africa
+192,green,4.9,oval,slightly rough,soft,tangy,fleshy,coconut,spring,China
+113,brown,5.5,round,smooth,soft,tangy,mealy,golden_apple,summer,Spain
+234,orange,3.8,round,smooth,soft,sweet,mealy,blueberry,fall,Spain
+388,purple,9.5,irregular,rough,soft,tangy,juicy,strawberry_guava,spring,India
+210,pink,19.4,elongated,rough,firm,tart,juicy,plum,summer,South Africa
+429,purple,9.4,oval,rough,soft,tangy,mealy,apple,year-round,Australia
+301,orange,6.6,irregular,smooth,soft,citrus,mealy,guava,summer,Italy
+147,pink,13.1,irregular,slightly rough,firm,sweet,fleshy,peach,fall,India
+259,purple,4.7,irregular,slightly rough,soft,tangy,fleshy,grapefruit,winter,China
+208,purple,14.9,round,slightly rough,hard,tart,fleshy,coconut,spring,Spain
+138,white,7.3,irregular,smooth,soft,tart,mealy,watermelon,summer,China
+173,black,26.6,elongated,rough,soft,nutty,juicy,pear,spring,Brazil
+355,red,4.1,round,slightly rough,soft,citrus,fleshy,kiwi,year-round,India
+187,orange,4.7,round,slightly rough,soft,citrus,juicy,fig,spring,India
+470,orange,9,irregular,rough,hard,tart,mealy,avocado,year-round,Italy
+288,blue,8,irregular,rough,hard,nutty,fleshy,mango,year-round,Italy
+238,brown,7.4,irregular,smooth,hard,tart,juicy,strawberry,spring,Spain
+188,green,29.5,elongated,slightly rough,firm,tangy,juicy,plantain,year-round,India
+413,orange,6,oval,slightly rough,firm,tangy,juicy,lemon,winter,India
+235,yellow,7.8,irregular,rough,firm,tart,juicy,green grape,spring,Spain
+375,orange,14.6,oval,slightly rough,hard,tangy,mealy,purple grape,year-round,South Africa
+243,blue,26,elongated,slightly rough,firm,citrus,juicy,crabapple,year-round,Italy
+174,yellow,14.6,elongated,slightly rough,hard,tart,fleshy,clementine,spring,USA
+258,brown,8.9,oval,smooth,hard,tangy,juicy,nectarine,year-round,South Africa
+76,orange,9.6,irregular,smooth,soft,tangy,fleshy,tangerine,year-round,Australia
+206,black,11.3,round,smooth,firm,citrus,fleshy,ugli fruit,winter,Mexico
+71,pink,3.6,irregular,slightly rough,soft,tart,mealy,redcurrant,summer,Spain
+277,blue,9.5,round,smooth,soft,tangy,fleshy,boysenberry,summer,Mexico

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fruit Classification</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+  <body>
+    <h1>Fruit Classification</h1>
+    <form method="POST">
+      <div>
+        <label for="weight">Weight (grams):</label>
+        <input type="number" name="weight" id="weight" required />
+      </div>
+      <div>
+        <label for="color">Color:</label>
+        <input type="text" name="color" id="color" required />
+      </div>
+      <div>
+        <label for="size">Size (cm):</label>
+        <input type="number" name="size" id="size" required />
+      </div>
+      <div>
+        <label for="shape">Shape:</label>
+        <input type="text" name="shape" id="shape" required />
+      </div>
+      <div>
+        <label for="skin_texture">Skin Texture:</label>
+        <input type="text" name="skin_texture" id="skin_texture" required />
+      </div>
+      <div>
+        <label for="firmness">Firmness:</label>
+        <input type="text" name="firmness" id="firmness" required />
+      </div>
+      <div>
+        <label for="aroma_type">Aroma Type:</label>
+        <input type="text" name="aroma_type" id="aroma_type" required />
+      </div>
+      <div>
+        <label for="fleshiness">Fleshiness:</label>
+        <input type="text" name="fleshiness" id="fleshiness" required />
+      </div>
+      <div>
+        <label for="growing_season">Growing Season:</label>
+        <input type="text" name="growing_season" id="growing_season" required />
+      </div>
+      <div>
+        <label for="country_of_origin">Country of Origin:</label>
+        <input
+          type="text"
+          name="country_of_origin"
+          id="country_of_origin"
+          required
+        />
+      </div>
+      <button type="submit">Predict</button>
+
+      <div class="output-text">
+        {% if knn_prediction %}
+        <h2>KNN Prediction: {{ knn_prediction }}</h2>
+        {% endif %}
+      </div>
+    </form>
+  </body>
+</html>
